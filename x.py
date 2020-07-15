@@ -6,6 +6,9 @@ while i<len(l):
     i=i+1
 
 
-print('debashis rout')    
+print('debashis rout') 
+print('9334567890')  
+print('Jajapur')
+ 
 
 
